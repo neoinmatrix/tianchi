@@ -1,0 +1,12 @@
+*.log
+*.pyc
+*.rar
+*.gz
+*.xls
+*.csv
+*.conf
+*.jpg
+*.png
+*.dat
+data/
+build/

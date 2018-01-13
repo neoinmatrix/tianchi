@@ -1,0 +1,32 @@
+predicts:  11,3640
+user_id     7,6309
+merchant_id   1559
+coupon_id     2050
+discount_rate 42 :35 .7
+date_received 20160701-20160731 null
+
+distance      0-10 null
+
+====================
+offline:  175,4884
+user_id    53,9438
+merchant_id   8415
+coupon_id     9739   70,1602 is null
+discount_rate 46 :36 .9 null 1  
+date_received 20160101-20160615 null
+
+distance      0-10 null
+date          20160101-20160615 null
+
+====================
+online:  1142,9826
+user_id    76,2858
+merchant_id   7999
+coupon_id   2,7748    1055,7469 is null
+discount_rate 65 :63 fixed 1  null 1
+date_received 20160101-20160615 null
+
+action        0 1 2 
+date          20160101-20160615 null
+
+====================
